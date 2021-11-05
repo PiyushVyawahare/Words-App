@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Words App</string>
+    <string name="a">A</string>
+    <string name="action_switch_layout">Switch Layout</string>
+    <string name="detail_prefix">Words That Start With</string>
+</resources>
